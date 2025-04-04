@@ -56,9 +56,10 @@ View Repository
 
 📫 Let's Connect:
 
-💼 LinkedIn: 
+💼 LinkedIn: [Linkedin Profile](linkedin.com/in/sanjay-singh-kushwaha-7b701a147)
 
 📩 Email: sanjaykush400@gmail.com
+
 
 
 
