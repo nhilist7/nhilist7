@@ -18,19 +18,19 @@ I'm a passionate Quantitative Researcher & Algo Trader with expertise in Python,
 
     Featured Projects:
 
-📊 1. AI-Driven Options Trading Strategy
+ 1. Options Trading Strategy
 
- * Utilizes Random Forest & XGBoost for predictive modeling
+ * Utilizes Relative strenght index and Options Volume data
 
- * Live Backtesting with NSE/BSE historical data
+ * Backtesting with NFO historical data
 
  * Implements slippage & transaction cost modeling
 
  * Feature engineering on market indicators & options data
 
-View Repository
 
-📈 2. Options Greeks & Stochastic Volatility Model
+
+ 2. Options Greeks & Stochastic Volatility Model
 
  * Calculates Delta, Gamma, Vega, Theta, Rho with real-time updates
 
@@ -40,7 +40,7 @@ View Repository
 
 View Repository
 
-📡 3. Market Data Analysis & Anomaly Detection
+ 3. Market Data Analysis & Anomaly Detection
 
  * Order Book Dynamics & Market Impact Analysis
 
