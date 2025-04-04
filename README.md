@@ -20,7 +20,7 @@ I'm a passionate Quantitative Researcher & Algo Trader with expertise in Python,
 
  1. Options Trading Strategy
 
- * Utilizes Relative strenght index and Options Volume data
+ * Utilizes Relative strength index and Options Volume data
 
  * Backtesting with NFO historical data
 
