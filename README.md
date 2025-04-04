@@ -28,7 +28,7 @@ I'm a passionate Quantitative Researcher & Algo Trader with expertise in Python,
 
  * Feature engineering on market indicators & options data
 
-[RSI + Supertrend](https://github.com/your-username/your-repo-name/tree/main/rsi_supertrend)
+[VIEW STRATEGY CODE]([https://github.com/your-username/your-repo-name/tree/main/rsi_supertrend](https://github.com/nhilist7/AI-Options-Trading-Strategy/blob/main/.gitignore))
 
  2. Options Greeks & Stochastic Volatility Model
 
