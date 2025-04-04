@@ -29,7 +29,10 @@ I'm a passionate Quantitative Researcher & Algo Trader with expertise in Python,
  * Feature engineering on market indicators & options data
 
 [View Repository](https://github.com/nhilist7/AI-Options-Trading-Strategy)
-    [View Strategy Code](https://github.com/nhilist7/AI-Options-Trading-Strategy/blob/main/.gitignore)
+
+-- [View Strategy Code](https://github.com/nhilist7/AI-Options-Trading-Strategy/blob/main/.gitignore)
+
+-- [View BackTest Report](https://github.com/nhilist7/AI-Options-Trading-Strategy/blob/main/BackTest_report.pdf)
 
  2. Options Greeks & Stochastic Volatility Model
 
